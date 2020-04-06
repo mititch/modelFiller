@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: lightgray;
+}
+
+a {
+  color: #00B7FF;
+}
+canvas {
+  background-color: white;
+  touch-action: none;
+}
+
+#save-canvas {
+  transform: scale(5);
+  margin-top: 55px;
+  margin-left: 80px;
+  position: absolute;
+}
